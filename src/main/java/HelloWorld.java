@@ -11,6 +11,7 @@ public class HelloWorld {
 		
 		System.out.println("I  am commiting 3rd time to repository");
 		System.out.println("I  am commiting 2nd time to copy repository");
+		System.out.println("Commiting from clone project");
 	}
 
 }
