@@ -15,7 +15,7 @@ public class HelloWorld {
 		System.out.println("Commiting from clone project");
 		System.out.println("Edit file from GitHUB");
 
-		
+		int a=20;
 		
 		int k=30;
 		int p=20;
