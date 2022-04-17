@@ -14,6 +14,7 @@ public class HelloWorld {
 		System.out.println("I  am commiting 2nd time to copy repository");
 		System.out.println("Commiting from clone project");
 		System.out.println("Edit file from GitHUB");
+		int k=30;
 	}
 
 }
