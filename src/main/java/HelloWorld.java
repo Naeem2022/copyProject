@@ -16,6 +16,7 @@ public class HelloWorld {
 		System.out.println("Edit file from GitHUB");
 
 		int a=20;
+		int b=30;
 		
 		int k=30;
 		int p=20;
